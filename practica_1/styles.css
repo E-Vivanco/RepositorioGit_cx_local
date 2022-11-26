@@ -1,0 +1,12 @@
+div.post-header
+div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post-header
+div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+}
